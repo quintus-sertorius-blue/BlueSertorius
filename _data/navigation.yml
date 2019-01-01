@@ -1,4 +1,8 @@
 main:
-  - title: "Archive"
+  - title: "Archives"
     url: /categories/
+  - title: "Ebook"
+    url : /ebook/
+  - title: "About"
+    url: /about/
 
