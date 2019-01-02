@@ -5,7 +5,7 @@ date:   2018-08-25
 categories: Strategy
 permalink: /suntzu1/
 header:
-  image: /_images/sertorius.jpg
+  image: /_images/quinto.jpg
 ---
 
 ![Sun Tzu is not pleased.](https://aforisticamente.com/wp-content/uploads/2018/01/SunTzu1.jpg)
