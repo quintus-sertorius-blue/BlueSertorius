@@ -17,7 +17,7 @@ Now the three people that you *hate* the most.
 
 **Do you see?**
 
-I can tell you because I used to be one of them. People would tell me how *moral* I was, being honest. Even though, deep in their mind, **they would hate me.** The fault was on me: I was trying to communicate with everybody.. 
+I can tell you because I used to be one of them. People would tell me how *moral* I was, being honest. Even though, deep in their mind, **they would hate me.** The fault was on me: I was trying to communicate with everybody.
 
 A little secret: the world is divided between *those who get it and those who do not.*
 
