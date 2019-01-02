@@ -75,8 +75,8 @@ defaults:
       share: true
       related: true
 
-teaser: /assets/images/sertorius.jpg
-og_image: /assets/images/sertorius.jpg
+teaser: /assets/images/quinto.jpg
+og_image: /assets/images/quinto.jpg
 
 comments:
   provider: "disqus"
