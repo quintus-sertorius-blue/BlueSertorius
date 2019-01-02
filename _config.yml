@@ -44,6 +44,42 @@ include: ["_images"]
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+author:
+  name: "Quintus Sertorius"
+  avatar: "/_images/quinto.jpg"
+  bio: "Copywriting, wellness and self-improvement."
+  location: "Rome 90 B.C."
+  links:
+    - label: "Ebook"
+      icon: "fas fa-fw fa-book"
+      url: "https://quintus-sertorius-blue.github.io/BlueSertorius/ebook/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlueSertorius"
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlueSertorius"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: true
+      comments: true
+
+teaser: /_images/sertorius.jpg
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "quintusertorius"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

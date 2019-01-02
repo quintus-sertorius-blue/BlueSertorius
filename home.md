@@ -4,7 +4,8 @@ layout: splash
 permalink: /
 date: 2018-09-09
 header:
-  overlay_image: /_images/nebbiabosco.jpg
+  overlay_image: /_images/sertorius.jpg
+  overlay_filter: 0.3 
   image_path: /_images/underwatercave.jpg
   cta_label: "Buy the E-Book Now"
   cta_url: "https://gum.co/gbJJq"
@@ -12,24 +13,24 @@ header:
 excerpt: >
   Get ahead of the masses. A guide towards personal excellence.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - 
+    alt: "Archives"
+    title: "Archives"
+    excerpt: "My thoughts and my writings. Avoid noise."
+    url: "/archives/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - 
+    alt: "Ebook"
+    title: "Ebook"
+    excerpt: "Time is the only thing that counts. That is why I wrote **a condensed, no nonsense ebook** to jumpstart your journey."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - 
+    alt: "About"
+    title: "About"
+    excerpt: "Skin in the game. Who I am and what I want to tell you."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
