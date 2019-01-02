@@ -80,6 +80,10 @@ comments:
   disqus:
     shortname: "quintusertorius"
 
+search: true
+
+google_site_verification: "google68db075094a373f2.html"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
