@@ -75,8 +75,8 @@ defaults:
       share: true
       related: true
 
-teaser: /_images/sertorius.jpg
-og_image: /_images/sertorius.jpg
+teaser: /assets/images/sertorius.jpg
+og_image: /assets/images/sertorius.jpg
 
 comments:
   provider: "disqus"
