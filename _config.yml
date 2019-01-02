@@ -72,8 +72,11 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+      share: true
+      related: true
 
 teaser: /_images/sertorius.jpg
+og_image: /_images/sertorius.jpg
 
 comments:
   provider: "disqus"
@@ -82,7 +85,10 @@ comments:
 
 search: true
 
-google_site_verification: "google68db075094a373f2.html"
+twitter:
+  username: "BlueSertorius"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
