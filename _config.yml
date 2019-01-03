@@ -81,7 +81,7 @@ og_image: "/_images/sertorius.jpg"
 comments:
   provider: "disqus"
   disqus:
-    shortname: "quintusertorius.disqus.com"
+    shortname: "quintusertorius"
 
 search: true
 
