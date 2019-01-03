@@ -13,7 +13,7 @@ Honesty is considered a good quality. However, in real life, honest people are n
 
 Seriously, try it.
 
-Now the three people that you *hate* the most.
+Now the three people that you *hate* the most..
 
 **Do you see?**
 
