@@ -7,9 +7,9 @@ header:
   overlay_image: /_images/sertorius.jpg
   overlay_filter: 0.3 
   image_path: /_images/underwatercave.jpg
-  cta_label: "Buy the E-Book Now"
-  cta_url: "https://gum.co/gbJJq"
-  caption: ""
+  actions:
+    - label: "Buy the E-Book Now"
+      url: "https://gum.co/gbJJq"  
 excerpt: >
   Get ahead of the masses. A guide towards personal excellence.
 feature_row:
