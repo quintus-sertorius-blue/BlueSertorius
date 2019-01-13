@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My journey towards financial and spiritual freedom. Here you will find posts about
   self-improvement, discipline, philosophy, online business, financial markets and whole lot of
   other things.
-baseurl: "/BlueSertorius" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quintus-sertorius-blue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BlueSertorius
 
