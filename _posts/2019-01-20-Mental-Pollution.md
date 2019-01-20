@@ -6,16 +6,17 @@ categories: Wellness
 permalink: /mentalpollution/
 toc: true
 toc_label: "Content"
+excerpt: "Why it is useful to safeguard your brain from cheap entertainment like mass-fantasy fiction."
 header:
-  overlay_image: /_images/books.jpg
+  overlay_image: /_images/biblio.jpg
+  overlay_filter: 0.3 
 
 ---
-
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling
 
 Reading fiction is escapism, imagination, fleeing from the world to enter a new one in your head, reflecting on your own universe from a different perspective. Sounds fun, right?
 
- In this paragraph we will discuss how *bad* fiction can spoil you, in particular **mass-fantasy fiction**. Be warned that I am not advocating against *fiction* as a genre. Fables, novels and many other sub-genres belong are built on a fictitious narration, and there is nothing bad about reading it. It can be a part of entertainment but it also a way to share a message: we all know that a story is much more powerful than a blank statement. 
+In this paragraph we will discuss how *bad* fiction can spoil you, in particular **mass-fantasy fiction**. Be warned that I am not advocating against *fiction* as a genre. Fables, novels and many other sub-genres belong are built on a fictitious narration, and there is nothing bad about reading it. It can be a part of entertainment but it also a way to share a message: we all know that a story is much more powerful than a blank statement. 
 
 There are two main different ways in which mass-fantasy fiction can spoil you.
 
