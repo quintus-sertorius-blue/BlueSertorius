@@ -6,6 +6,9 @@ categories: Wellness
 permalink: /mentalpollution/
 toc: true
 toc_label: "Content"
+header:
+  overlay_image: /_images/books.jpg
+
 ---
 
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling

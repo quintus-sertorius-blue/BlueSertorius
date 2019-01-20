@@ -11,7 +11,7 @@ permalink: /suntzu1/
 
 Honesty is considered a good quality. However, in real life, honest people are not that appreciated. Think about the three people that you *like* the most. 
 
-Seriously, try it.12
+Seriously, try it.
 
 Now the three people that you *hate* the most..	
 
