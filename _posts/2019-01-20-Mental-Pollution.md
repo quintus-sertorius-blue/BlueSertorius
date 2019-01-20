@@ -4,9 +4,9 @@ title:  "Mental Pollution - Harry Potter Edition"
 date:   2019-01-20
 categories: Wellness
 permalink: /mentalpollution/
+toc: true
+toc_label: "Content"
 ---
-
-#How bad fiction can spoil you
 
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling
 
