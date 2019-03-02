@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.3
 
 ---
->In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling
+>In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling.
 
 Reading fiction is escapism, imagination, fleeing from the world to enter a new one in your head, reflecting on your own universe from a different perspective. Sounds fun, right?
 
