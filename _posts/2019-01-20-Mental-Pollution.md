@@ -6,7 +6,11 @@ categories: Wellness
 permalink: /mentalpollution/
 toc: true
 toc_label: "Content"
-excerpt: "Why it is useful to safeguard your brain from cheap entertainment like mass-fantasy fiction." 
+excerpt: "Why it is useful to safeguard your brain from cheap entertainment like mass-fantasy fiction."
+header:
+  overlay_image: /images/biblio.jpg
+  overlay_filter: 0.3
+
 ---
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling
 
