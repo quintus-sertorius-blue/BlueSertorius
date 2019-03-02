@@ -10,7 +10,7 @@ excerpt: "Why it is useful to safeguard your brain from cheap entertainment like
 header:
   overlay_image: /_images/biblio.jpg
   overlay_filter: 0.3 
-
+  og_image: /_images/biblio.jpg 
 ---
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling
 
@@ -63,6 +63,6 @@ Let us examine what are the key messages underlying the HP series:
 7. **Friendship and love** are the most important values. Except that in real life being “friends” mean one thing and being in “love” means another. Many times it happens when we are young and we talk about relationships for example. 
 
 
-These are at least **seven fucking reasons** to avoid reading such material. 
+These are at least **seven reasons** to avoid reading such material. 
 
 >We need to re-discover classics.
