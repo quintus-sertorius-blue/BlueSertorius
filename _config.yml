@@ -75,7 +75,7 @@ defaults:
       related: true
 
 teaser: "/_images/sertorius.jpg"
-og_image: "/_images/sertorius.jpg"
+og_image: "/_images/quinto.jpg"
 
 comments:
   provider: "disqus"
