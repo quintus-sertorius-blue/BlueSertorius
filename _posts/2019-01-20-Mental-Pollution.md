@@ -8,9 +8,8 @@ toc: true
 toc_label: "Content"
 excerpt: "Why it is useful to safeguard your brain from cheap entertainment like mass-fantasy fiction."
 header:
-	image: /_images/biblio.jpg
-	overlay_image: /_images/biblio.jpg
-	overlay_filter: 0.3 
+  overlay_image: /_images/biblio.jpg
+  overlay_filter: 0.3 
   
 ---
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling
