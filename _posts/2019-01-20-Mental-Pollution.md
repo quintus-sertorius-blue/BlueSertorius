@@ -8,7 +8,7 @@ toc: true
 toc_label: "Content"
 excerpt: "Why it is useful to safeguard your brain from cheap entertainment like mass-fantasy fiction."
 header:
-  overlay_image: /_images/biblio.jpg
+  overlay_image: /images/biblio.jpg
   overlay_filter: 0.3
 
 ---

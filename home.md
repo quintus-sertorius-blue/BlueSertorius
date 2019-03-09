@@ -4,9 +4,9 @@ layout: splash
 permalink: /
 date: 2018-09-09
 header:
-  overlay_image: /_images/sertorius.jpg
+  overlay_image: /images/sertorius.jpg
   overlay_filter: 0.3 
-  image_path: /_images/underwatercave.jpg
+  image_path: /images/underwatercave.jpg
   actions:
     - label: "Buy the E-Book Now"
       url: "https://gum.co/gbJJq"  
