@@ -10,7 +10,7 @@ excerpt: "Why it is useful to safeguard your brain from cheap entertainment like
 header:
   overlay_image: /images/biblio.jpg
   overlay_filter: 0.3
-
+  og_image: /images/biblio.jpg
 ---
 >In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling.
 
