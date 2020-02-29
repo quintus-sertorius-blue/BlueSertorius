@@ -4,9 +4,9 @@ layout: single
 permalink: /about/
 author_profile: true
 ---
-##My story and why I am here	
+## My story and why I am here	
 
-#### GO AWAY if you are searching for platitudes, self-improvement junk or motivational material.
+### GO AWAY if you are searching for platitudes, self-improvement junk or motivational material.
 
 A decade ago, a beast called Crohn's disease hit me. I was a frail teenager, with friends that were nerds, whose life was only about studying, videogames and reading sci-fi and fantasy. That  event changed my life completely. In the next years, a  series of misfortunes followed. A pneumothorax, a mutilation, a pneumonia and, the worst of all, a terrible period of anxiety and depression where I really thought I would not get out.
 
