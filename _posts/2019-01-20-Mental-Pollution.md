@@ -11,9 +11,12 @@ header:
   overlay_image: /images/biblio.jpg
   overlay_filter: 0.3
 ---
->In both cases it is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling.
+>It is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling.
 
-Reading fiction is escapism, imagination, fleeing from the world to enter a new one in your head, reflecting on your own universe from a different perspective. Sounds fun, right?
+Reading fiction is escapism and imagination. Getting away from the boredom of the same commute, the same job, the same faces. Fleeing from reality to enter a new world made of quests, magic and vastless and deep forests. Sounds fun, right?
+
+![Gandalf strolling through Middle Earth. Or is it New Zealand?](https://lh3.googleusercontent.com/proxy/DAwnEMW0qEUO_qY8c2UQ6e5Pq5WAtQQsPR0TLbm4LRNrzeUff21JZe3f_uF3yfS8Ew6w6FoWlg0E7yMUgHzj0BuZAZYQH-Z9jn-XJ4tJJxua)
+
 
 In this paragraph we will discuss how *bad* fiction can spoil you, in particular **mass-fantasy fiction**. Be warned that I am not advocating against *fiction* as a genre. Fables, novels and many other sub-genres belong are built on a fictitious narration, and there is nothing bad about reading it. It can be a part of entertainment but it also a way to share a message: we all know that a story is much more powerful than a blank statement. 
 
@@ -44,8 +47,8 @@ Almost always it is a mix of the two, but let me make an example to show you wha
 
 Vikings: this series is inspirational. The few messages you get are:
 
-	1. In old times, strong and brutal men were the real men. They also fuck the best women.
-	2. Honor (whatever that means today), courage and resistance are imperative for men.
+1. In old times, strong and brutal men were the real men. They also fuck the best women 
+2. Honor (whatever that means today), courage and resistance are imperative for men.
 
 *We start to think “old times were better” and “I wish I was born in VIII century”*, nothing crazy and just a little bit goliardic.  However, it depends on the dose of the consumption. I truly think, that constant exposure to similar material can affect the way you think. 
 Take somebody who watches a series like Viking, consumes history fiction novels about ancients, plays video-games still about war and “honor” and is a fan of movies like “The Gladiator”. **You get a brainwashed kid who truly thinks that the best way for a man to be is like Ragnar Lothbrok or Maximus Decimus Meridius.** Ideals like these manifest for example in situation of conflicts, where you would search for open conflict, thinking this is the way it works (false. In our modern times, everything is indirect). While they are fascinating characters, it is again smokescreens for the real thing. I think other role models would be far more useful.
