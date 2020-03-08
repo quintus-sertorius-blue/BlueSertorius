@@ -15,7 +15,15 @@ header:
 
 Reading fiction is escapism and imagination. Getting away from the boredom of the same commute, the same job, the same faces. Fleeing from reality to enter a new world made of quests, magic and vastless and deep forests. Sounds fun, right?
 
-![Gandalf strolling through Middle Earth. Or is it New Zealand?](https://lh3.googleusercontent.com/proxy/DAwnEMW0qEUO_qY8c2UQ6e5Pq5WAtQQsPR0TLbm4LRNrzeUff21JZe3f_uF3yfS8Ew6w6FoWlg0E7yMUgHzj0BuZAZYQH-Z9jn-XJ4tJJxua)
+
+{% capture fig_img %}
+![Foo]({{ "/images/gandalf.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Gandalf strolling through Middle Earth. Or is it New Zealand?</figcaption>
+</figure>
 
 
 In this paragraph we will discuss how *bad* fiction can spoil you, in particular **mass-fantasy fiction**. Be warned that I am not advocating against *fiction* as a genre. Fables, novels and many other sub-genres belong are built on a fictitious narration, and there is nothing bad about reading it. It can be a part of entertainment but it also a way to share a message: we all know that a story is much more powerful than a blank statement. 
