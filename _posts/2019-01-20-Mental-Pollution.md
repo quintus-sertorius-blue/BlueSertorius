@@ -13,7 +13,7 @@ header:
 ---
 >It is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling.
 
-Reading fiction is escapism and imagination. Getting away from the boredom of the same commute, the same job, the same faces. Fleeing from reality to enter a new world made of quests, magic and vastless and deep forests. Sounds fun, right?
+Reading fiction is escapism and imagination. Getting away from the boredom of the same commute, the same job, the same faces. Fleeing from reality to enter a new world made of magic quests, manly honour and vastless forests. Sounds fun, right?
 
 
 {% capture fig_img %}
@@ -26,7 +26,10 @@ Reading fiction is escapism and imagination. Getting away from the boredom of th
 </figure>
 
 
-In this paragraph we will discuss how *bad* fiction can spoil you, in particular **mass-fantasy fiction**. Be warned that I am not advocating against *fiction* as a genre. Fables, novels and many other sub-genres belong are built on a fictitious narration, and there is nothing bad about reading it. It can be a part of entertainment but it also a way to share a message: we all know that a story is much more powerful than a blank statement. 
+In this essay we will discuss how *bad* fiction can spoil you, in particular **mass-fantasy fiction**. I am not advocating against *fiction* as a genre. Fables, novels and many other sub-genres belong are built on a fictitious narration, and there is nothing bad about reading it. Sharing a story will alwasys be more powerful than explaining directly a message. As Taleb says:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">&quot;With novelists, names and dates are wrong, the rest is true. <br> With historians, names and dates are correct, the rest is false.&quot;<a href="https://t.co/qhQxqtF4qu">https://t.co/qhQxqtF4qu</a></p>&mdash; Nassim Nicholas Taleb (@nntaleb) <a href="https://twitter.com/nntaleb/status/1099232862090465281?ref_src=twsrc%5Etfw">February 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
 
 There are two main different ways in which mass-fantasy fiction can spoil you.
 
