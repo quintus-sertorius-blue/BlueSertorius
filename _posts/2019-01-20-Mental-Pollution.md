@@ -11,7 +11,7 @@ header:
   overlay_image: /images/biblio.jpg
   overlay_filter: 0.3
 ---
->It is all about what people don't read. Central books are few; erudition is optional, reading everything at sight is crippling.
+>It is all about what people don't read. Central books are few. Erudition is optional, reading everything at sight is crippling.
 
 Reading fiction is escapism and imagination. Getting away from the boredom of the same commute, the same job, the same faces. Fleeing from reality to enter a new world made of magic quests, manly honour and vastless forests. Sounds fun, right?
 
@@ -31,9 +31,11 @@ In this essay we will discuss how *bad* fiction can spoil you, in particular **m
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">&quot;With novelists, names and dates are wrong, the rest is true. <br> With historians, names and dates are correct, the rest is false.&quot;<a href="https://t.co/qhQxqtF4qu">https://t.co/qhQxqtF4qu</a></p>&mdash; Nassim Nicholas Taleb (@nntaleb) <a href="https://twitter.com/nntaleb/status/1099232862090465281?ref_src=twsrc%5Etfw">February 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
 
-There are two main different ways in which mass-fantasy fiction can spoil you.
+However, here we are not discussing novels but that kind of content you find everywhere in 2020s mainstream culture: Marvel superheroes, idealized history Netflix series, cheap intellectual Sci-Fi, Harry Potter... 
+Since the start of the millenium, and even more with the Internt, we had a surge in popularity. People spend more and more time in front of a screen digesting and absorbing this stuff.
+In the next paragraphs, we will try to explore the two main different ways in which mass-fantasy fiction can spoil you.
 
-### The first issue: escapism
+### Escapism
 
 **Mass-fantasy fiction delivers pure entertainment in the form of escapism.** While it can be argued that fleeing from time to time to a different world can be natural for us, or can even inspire us to be better, a constant intellectual diet based on escapism is the recipe for a disaster. I will use a metaphor to explain why.
 
