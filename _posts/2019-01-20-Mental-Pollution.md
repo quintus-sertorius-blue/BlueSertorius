@@ -11,6 +11,9 @@ header:
   overlay_image: /images/biblio.jpg
   overlay_filter: 0.3
 ---
+
+### Introduction
+
 >It is all about what people don't read. Central books are few. Erudition is optional, reading everything at sight is crippling.
 
 Reading fiction is escapism and imagination. Getting away from the boredom of the same commute, the same job, the same faces. Fleeing from reality to enter a new world made of magic quests, manly honour and vastless forests. Sounds fun, right?
