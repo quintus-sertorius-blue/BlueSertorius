@@ -35,12 +35,14 @@ In this essay we will discuss how *bad* fiction can spoil you, in particular **m
  
 
 However, here we are not discussing novels but that kind of content you find everywhere in 2020s mainstream culture: Marvel superheroes, idealized history Netflix series, cheap intellectual Sci-Fi, Harry Potter... 
-Since the start of the millenium, and even more with the Internt, we had a surge in popularity. People spend more and more time in front of a screen digesting and absorbing this stuff.
+Since the start of the millenium, and even more with the Internet, we had a surge in popularity. People spend more and more time in front of a screen digesting and absorbing this stuff.
 In the next paragraphs, we will try to explore the two main different ways in which mass-fantasy fiction can spoil you.
 
 ### Escapism
 
-**Mass-fantasy fiction delivers pure entertainment in the form of escapism.** While it can be argued that fleeing from time to time to a different world can be natural for us, or can even inspire us to be better, a constant intellectual diet based on escapism is the recipe for a disaster. I will use a metaphor to explain why.
+#### Mass-fantasy fiction delivers pure entertainment in the form of escapism.
+
+While it can be argued that fleeing from time to time to a different world can be natural for us, or can even inspire us to be better, a constant intellectual diet based on escapism is the recipe for a disaster. I will use a metaphor to explain why.
 
 When you feel pain, you have two choices: either you accept the fact that the pain exists, alongside with the suffering, and you recognize that you have to find a solution (if the solution exists, very important point...) or, second possibility, *you can dismiss the pain and cover it with some instant gratification*  given by something like food, cheap entertainment or drugs. 
 This second choice has a price. First off, you need more and more of the substance to cover your pain. This is the addiction mechanism. Secondly, pain is a symptom. While you are ignoring your pain, chances are that you letting him grow behind the surfaces, waiting one day to explode near, or worse, inside your head.
