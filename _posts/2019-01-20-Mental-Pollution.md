@@ -38,16 +38,22 @@ However, here we are not discussing novels but that kind of content you find eve
 Since the start of the millenium, and even more with the Internet, we had a surge in popularity. People spend more and more time in front of a screen digesting and absorbing this stuff.
 In the next paragraphs, we will try to explore the two main different ways in which mass-fantasy fiction can spoil you.
 
-### Escapism
+### The first issue: Escapism
 
-#### Mass-fantasy fiction delivers pure entertainment in the form of escapism.
+#### Mass-fantasy fiction is escapism.
 
-While it can be argued that fleeing from time to time to a different world can be natural for us, or can even inspire us to be better, a constant intellectual diet based on escapism is the recipe for a disaster. I will use a metaphor to explain why.
+While it can be argued that fleeing from time to time to a different world can be natural for us, or can even inspire us to be better, a constant intellectual diet based on escapism is the recipe for a disaster.
 
-When you feel pain, you have two choices: either you accept the fact that the pain exists, alongside with the suffering, and you recognize that you have to find a solution (if the solution exists, very important point...) or, second possibility, *you can dismiss the pain and cover it with some instant gratification*  given by something like food, cheap entertainment or drugs. 
+We feel the need to *escape reality* when we cannot accept the present moment. Maybe your job doesn't satisfy you that much and are you are bored of your constant routing of commuting, working and watching Netflix at night. You don't see a goal in what you are doing. 
+Now, instead of facing this deep monster inside our soul (*Why am I suffering?*) and then channel this pain into possible solutions (*What do I need to change in my life?*), you could stop all this process by ingesting dopamine through entertainment. It is the modern equivalent of having fever and instantly taking paracetamol. Utter stupidity.
+** We need to listen to our body signals. Emotions ARE body signals.**
+
+ When you feel pain, you have two choices: either you accept the fact that the pain exists, alongside with the suffering, and you recognize that you have to find a solution (if the solution exists, very important point...) or, second possibility, *you can dismiss the pain and cover it with some instant gratification*  given by something like food, cheap entertainment or drugs. 
 This second choice has a price. First off, you need more and more of the substance to cover your pain. This is the addiction mechanism. Secondly, pain is a symptom. While you are ignoring your pain, chances are that you letting him grow behind the surfaces, waiting one day to explode near, or worse, inside your head.
 
-**Mass-fantasy fiction belongs to the category cheap entertainment.** What you will usually here that they can provide “a little bit of distraction for the boring suburban routine”. Well, I would argue that if you feel bored and depressed your need to realize and process this signal coming from your emotions, not shut it down ingesting and consuming shitty content.  
+#### Mass-fantasy fiction is cheap entertainment
+
+What you will usually here that they can provide “a little bit of distraction for the boring suburban routine”. Well, I would argue that if you feel bored and depressed your need to realize and process this signal coming from your emotions, not shut it down ingesting and consuming shitty content.  
 
 The good thing to do in my opinion would be:
 1. acknowledging this pain (and yes, it **is painful**)
@@ -56,7 +62,7 @@ The good thing to do in my opinion would be:
 
 The *real* world is the real thing. I do not waste time pursuing cheap fantasies made by others to forget real problems.
 
-### The second problem: morals
+### The second issue: Morals
 
 Reading fantasy fiction resonates with us, not just because it makes us escape from reality.  **Along with imaginary scenes, fiction transmits some key messages or morals that our brain then apply to the real world.** This morals can be *dangerous*, especially when fed to a young audience, who is thirsty to understand how the world works.
 
