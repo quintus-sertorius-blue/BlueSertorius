@@ -75,23 +75,6 @@ The best way to avoid this, it is to install a browser which has no way to store
 > 
 > The solution is called [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) and is available on iOS and Android.
 
-### From mindless to purposeful search ###
-
-*You unlock the phone with a reasonable objective. You want to understand how to froze the marvelous rib-eye you just bought in the most effective way, without ruining it. So you get your dumb-phone out of your pocket and while your eyes are searching for the Safari icon, you get a glimpse of the messaging app. A quick look doesn't hurt anybody, does it?*
-
-The phone is designed to keep the user glued to the screen for the maximum amount possible. The way they do it is to keep many shiny things on the same spot so that when you get sick of some content, you immediately pass to other applications. 
-The danger is that when you open the phone with a purpose in your mind, you might get distracted in the journey and forget what the search was all about!
-
-What we want is trying to implement a way to minimize this phenomenon of bad serendipity so that when we search something we only get what we were looking for.
-Here are the ways to do this on the iOS.
-
-1. Do not let applications float on your screen. Icons are like candies. Put every application in a folder with other ones.
-2. Do not pack every folder on one screen. I find myself restless when I look at such chaos. Put each folder on one separate screen so that you minimize distraction.
-3. To open an application you will use the text-search, so that when you look at something you don't just tap it with your finger but you will have to write it. 
-4. Disable the "suggestion" (seriously, **fuck your suggestions dear nerds**) on the automatic search. You don't want to open up the search for driving directions and being shown messaging, browsing and social media apps.
-
-> To open application, stop tapping and start typing.
-
 ### Change the home and lock screen to something bland ###
 
 We humans are very simple creature. We see a shiny thing and we try to catch it. As we said earlier, our objective is not to rely always on willpower but mainly to reduce the "firepower" of the dumb-phone.
@@ -111,3 +94,26 @@ What I do is choosing a bland background, mono color blue in my case, like the o
     
 > 
 > Choose a boring background to remind yourself that the dumb-phone is just a tool.
+
+<figure>
+    <a href="/images/5_phone.jpg"><img src="/images/5_phone.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
+### From mindless to purposeful search ###
+
+*You unlock the phone with a reasonable objective. You want to understand how to froze the marvelous rib-eye you just bought in the most effective way, without ruining it. So you get your dumb-phone out of your pocket and while your eyes are searching for the Safari icon, you get a glimpse of the messaging app. A quick look doesn't hurt anybody, does it?*
+
+The phone is designed to keep the user glued to the screen for the maximum amount possible. The way they do it is to keep many shiny things on the same spot so that when you get sick of some content, you immediately pass to other applications. 
+The danger is that when you open the phone with a purpose in your mind, you might get distracted in the journey and forget what the search was all about!
+
+What we want is trying to implement a way to minimize this phenomenon of bad serendipity so that when we search something we only get what we were looking for.
+Here are the ways to do this on the iOS.
+
+1. Do not let applications float on your screen. Icons are like candies. Put every application in a folder with other ones.
+2. Do not pack every folder on one screen. I find myself restless when I look at such chaos. Put each folder on one separate screen so that you minimize distraction.
+3. To open an application you will use the text-search, so that when you look at something you don't just tap it with your finger but you will have to write it. 
+4. Disable the "suggestion" (seriously, **fuck your suggestions dear nerds**) on the automatic search. You don't want to open up the search for driving directions and being shown messaging, browsing and social media apps.
+
+> To open application, stop tapping and start typing.
+
