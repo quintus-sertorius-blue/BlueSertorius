@@ -52,7 +52,7 @@ Letting notifications on is allowing the nerd-overlords of Silicon Valley to int
 
 > The first step is cutting ALL notifications.
 
-###Delete all social media applications###
+### Delete all social media applications ###
 
 It is quite a lot of time I am out of the loop in terms of social media. I have never had Instagram, it's five years since the last time I have watched the feed of Facebook and I have only heard about Snapchat. For me the real problem can be Linkedin and Twitter.
 
