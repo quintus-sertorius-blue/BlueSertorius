@@ -45,11 +45,10 @@ In the next paragraphs, we will try to explore the two main different ways in wh
 While it can be argued that fleeing from time to time to a different world can be natural for us, or can even inspire us to be better, a constant intellectual diet based on escapism is the recipe for a disaster.
 
 We feel the need to *escape reality* when we cannot accept the present moment. Maybe your job doesn't satisfy you that much and are you are bored of your constant routing of commuting, working and watching Netflix at night. You don't see a goal in what you are doing. 
-Now, instead of facing this deep monster inside our soul (*Why am I suffering?*) and then channel this pain into possible solutions (*What do I need to change in my life?*), you could stop all this process by ingesting dopamine through entertainment. It is the modern equivalent of having fever and instantly taking paracetamol. Utter stupidity.
+Now, instead of facing this deep monster inside our soul (*Why am I suffering?*) and then channel this pain into possible solutions (*What do I need to change in my life?*), you could stop all this process by ingesting dopamine through instant gratification, either in the form of cheap entertainment, drugs or junk food. It is the modern equivalent of having fever and instantly taking paracetamol. Utter stupidity.
 ** We need to listen to our body signals. Emotions ARE body signals.**
 
- When you feel pain, you have two choices: either you accept the fact that the pain exists, alongside with the suffering, and you recognize that you have to find a solution (if the solution exists, very important point...) or, second possibility, *you can dismiss the pain and cover it with some instant gratification*  given by something like food, cheap entertainment or drugs. 
-This second choice has a price. First off, you need more and more of the substance to cover your pain. This is the addiction mechanism. Secondly, pain is a symptom. While you are ignoring your pain, chances are that you letting him grow behind the surfaces, waiting one day to explode near, or worse, inside your head.
+Burying your own emotions has a price. First off, you need more and more of the substance to cover your pain. This is the addiction mechanism. Secondly, pain is a symptom. While you are ignoring your pain, chances are that you letting him grow behind the surfaces, waiting one day to explode near, or worse, inside your head.
 
 #### Mass-fantasy fiction is cheap entertainment
 
