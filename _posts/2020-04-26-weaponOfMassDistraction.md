@@ -24,7 +24,7 @@ The second objective is suggesting a series of practical tactics to implement in
 
 There are all the elements to talk about addiction with the modern mobile phone usage. **Compulsive and self-destructing behavior that tend to repeat and increment itself**. Even if we are not talking about a cocaine addiction (even tough sometimes when you see people glued on the screen, it seems even worse), you will realize how hard it is to modify your phone habits, if you just rely on "willpower".
  
-###The fundamental problem of willpower###
+### The fundamental problem of willpower ###
 
 > There is a great heap of dead men's bones lying all around, with the flesh still rotting off them. Therefore pass these Sirens by, and stop your men's ears with wax that none of them may hear; but if you like you can listen yourself, for you may get the men to bind you as you stand upright on a cross-piece half way up the mast, and they must lash the rope's ends to the mast itself, that you may have the pleasure of listening. If you beg and pray the men to unloose you, then they must bind you faster.
 
