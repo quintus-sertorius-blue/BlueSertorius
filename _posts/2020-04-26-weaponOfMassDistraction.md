@@ -28,7 +28,11 @@ There are all the elements to talk about addiction with the modern mobile phone 
 
 > There is a great heap of dead men's bones lying all around, with the flesh still rotting off them. Therefore pass these Sirens by, and stop your men's ears with wax that none of them may hear; but if you like you can listen yourself, for you may get the men to bind you as you stand upright on a cross-piece half way up the mast, and they must lash the rope's ends to the mast itself, that you may have the pleasure of listening. If you beg and pray the men to unloose you, then they must bind you faster.
 
-![Ulysses understood the value of setting up rules in advance he knew he could not disobey](https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Sirens_and_Ulysses_by_William_Etty%2C_1837.jpg)
+
+<figure>
+    <a href="/images/sirens.jpg"><img src="/images/sirens.jpg" ></a>
+    <figcaption>Ulysses understood the value of setting up rules in advance he knew he could not disobey when facing irresistible tempations like the Sirens. He ordered his men to bind to the mast so he could not escape. We will try to do the same.</figcaption>
+</figure>
 
 Willpower is great and it is the engine that moves the world. However, your level of motivation varies greatly from say, the morning after you have just had a good 9 hour sleep and the evening, where you just came back from work and you had bad news. 
 
