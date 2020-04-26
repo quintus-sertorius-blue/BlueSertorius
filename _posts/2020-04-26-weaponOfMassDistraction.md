@@ -20,7 +20,7 @@ The goal here is two-fold. On one hand, I want to explain the underlying princip
 
 The second objective is suggesting a series of practical tactics to implement in your day-to-day. I sincerely hope you will be able to modify or adapt them to your need.
 
-##Principles##
+## Principles ##
 
 There are all the elements to talk about addiction with the modern mobile phone usage. **Compulsive and self-destructing behavior that tend to repeat and increment itself**. Even if we are not talking about a cocaine addiction (even tough sometimes when you see people glued on the screen, it seems even worse), you will realize how hard it is to modify your phone habits, if you just rely on "willpower".
  
@@ -37,7 +37,7 @@ It is wise, before entering a battle, to know your own weak-points and prepare f
 Here we want to devise strategies that will prevent to fall into mistakes right when we are the weakest.
 
 
-##Tactics##
+## Tactics ##
 
 ### Deactivate all notifications ###
 
@@ -64,7 +64,7 @@ This things considered, you don't gain anything by having social media apps inst
 
 > It is superior on virtually every element to schedule your social media session and do it on a desktop pc.
 > 
-###Change your browser###
+### Change your browser ###
 
 This is thing that I have rarely seen on digital minimalist but it is crucial. Modern mobile browsers have way less customization capabilities than their desktop counterparts. One key issue to avoid mindless internet surfing is not having a list of "favorite websites" as soon as you access the browser. 
 For example, Safari on iOS automatically lists you on the home screen the most visited website. This drains your willpower. 
@@ -75,7 +75,7 @@ The best way to avoid this, it is to install a browser which has no way to store
 > 
 > The solution is called [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) and is available on iOS and Android.
 
-###From mindless to purposeful search###
+### From mindless to purposeful search ###
 
 *You unlock the phone with a reasonable objective. You want to understand how to froze the marvelous rib-eye you just bought in the most effective way, without ruining it. So you get your dumb-phone out of your pocket and while your eyes are searching for the Safari icon, you get a glimpse of the messaging app. A quick look doesn't hurt anybody, does it?*
 
