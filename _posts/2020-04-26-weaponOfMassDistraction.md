@@ -75,6 +75,10 @@ The best way to avoid this, it is to install a browser which has no way to store
 > 
 > The solution is called [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) and is available on iOS and Android.
 
+<figure>
+    <a href="/images/7_phone.jpg"><img class="center" src="/images/7_phone.jpg" style="width:40%"></a>
+</figure>
+
 ### Change the home and lock screen to something bland ###
 
 We humans are very simple creature. We see a shiny thing and we try to catch it. As we said earlier, our objective is not to rely always on willpower but mainly to reduce the "firepower" of the dumb-phone.
@@ -96,8 +100,7 @@ What I do is choosing a bland background, mono color blue in my case, like the o
 > Choose a boring background to remind yourself that the dumb-phone is just a tool.
 
 <figure>
-    <a href="/images/5_phone.jpg"><img src="/images/5_phone.jpg" height="300"></a>
-    <figcaption>Blue.</figcaption>
+    <a href="/images/5_phone.jpg"><img class="center" src="/images/5_phone.jpg" style="width:40%"></a>
 </figure>
 
 ### From mindless to purposeful search ###
@@ -117,3 +120,12 @@ Here are the ways to do this on the iOS.
 
 > To open application, stop tapping and start typing.
 
+<figure class="half">
+    <a href="/images/1_phone.jpg"><img style="width:55%" src="/images/1_phone.jpg"></a>
+    <a href="/images/3_phone.jpg"><img style="width:55%" src="/images/3_phone.jpg"></a>
+    <figcaption>Gathering applications on a separate screen to generate less noise and disabling suggested applications.</figcaption>
+</figure>  
+
+### Reorganize the Apps ###
+
+As you can see from the previous images, the line at the bottom of the screen is occupied by just one app. Of course this is on purpose, as I can quickly access what is most important, the Phone app. Here again the recurring theme: icons on a screen are like candies scattered across the table.
