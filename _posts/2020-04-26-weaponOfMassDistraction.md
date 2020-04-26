@@ -8,7 +8,7 @@ toc: true
 toc_label: "Content"
 excerpt: "A practical guide against the stupidity of the dumb-phone"
 header:
-  overlay_image: /images/biblio.jpg
+  overlay_image: /images/glued.jpg
   overlay_filter: 0.3
 ---
 
@@ -63,7 +63,7 @@ So I clearly do not agree with the opinion that social media per se. **They need
 This things considered, you don't gain anything by having social media apps installed on your phone. They promote compulsive consumption of news as a "boredom-killer". Notifications can definitely wait an afternoon.
 
 > It is superior on virtually every element to schedule your social media session and do it on a desktop pc.
-> 
+
 ### Change your browser ###
 
 This is thing that I have rarely seen on digital minimalist but it is crucial. Modern mobile browsers have way less customization capabilities than their desktop counterparts. One key issue to avoid mindless internet surfing is not having a list of "favorite websites" as soon as you access the browser. 
