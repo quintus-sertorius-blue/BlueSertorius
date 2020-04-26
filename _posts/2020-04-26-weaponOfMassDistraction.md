@@ -96,8 +96,8 @@ What I do is choosing a bland background, mono color blue in my case, like the o
 > Choose a boring background to remind yourself that the dumb-phone is just a tool.
 
 <figure>
-    <a href="/images/5_phone.jpg"><img src="/images/5_phone.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+    <a href="/images/5_phone.jpg"><img src="/images/5_phone.jpg" height="300"></a>
+    <figcaption>Blue.</figcaption>
 </figure>
 
 ### From mindless to purposeful search ###
