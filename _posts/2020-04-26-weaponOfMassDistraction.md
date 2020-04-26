@@ -1,4 +1,16 @@
-# How to beat the Weapon of Mass Distraction #
+---
+layout: single
+title:  "How to beat the Weapon of Mass Distraction"
+date:   2019-01-20
+categories: Wellness
+permalink: /weaponofmassdistraction/
+toc: true
+toc_label: "Content"
+excerpt: "A practical guide against the stupidity of the dumb-phone"
+header:
+  overlay_image: /images/biblio.jpg
+  overlay_filter: 0.3
+---
 
 I will not argue in this essay why the "smart-phone" (here fondly called dumb-phone) is destroying our attention. As rightly argued by Cal Newport, for the first time in human history we are killing every space for boredom. **We are constantly stimulated**, either by the news, by a "funny" video or your favorite social media app. We feel like we are never alone when in reality social relationships have never been so weak.
 
