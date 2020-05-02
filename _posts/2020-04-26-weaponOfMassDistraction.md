@@ -12,6 +12,8 @@ header:
   overlay_filter: 0.3
 ---
 
+## Introduction ##
+
 I will not argue in this essay why the "smart-phone" (here fondly called dumb-phone) is destroying our attention. As rightly argued by Cal Newport, for the first time in human history we are killing every space for boredom. **We are constantly stimulated**, either by the news, by a "funny" video or your favorite social media app. We feel like we are never alone when in reality social relationships have never been so weak.
 
 My approach, and what I am suggesting you, is focusing on what you can control, i.e your exposition to the mobile phone. Frustration will always occur while interacting with zombies, people that have totally lost every kind of control on their digital diet. **This is unavoidable**. The best thing you can do is regain control of yourself, enjoy the sobriety that comes from having a "clean" mind, one that has a good mental hygiene in regard to the use of digital tool.
