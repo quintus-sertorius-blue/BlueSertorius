@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Stop overstimulating your mind with digital entertainment"
+title:  "Stop overstimulating your mind with digital entertainment."
 date:   2020-05-02
 categories: DigitalMinimalism
 permalink: /letyourmindrest/
 toc: true
 toc_label: "Content"
-excerpt: "How to let your mind rest and recover"
+excerpt: "How to avoid digital autism and let your mind rest and recover"
 header:
   overlay_image: /images/leisure.jpg
   overlay_filter: 0.3
@@ -52,7 +52,14 @@ Whatever you do:
 - Having a look at social media
 - Resume the YouTube video you were watching the night before
 
-You are introducing unnecessary dopamine in your mind. It is the equivalent of eating two spoon of sugar before eating a real meal. It annihilates your motivation like it destroys your appetite. Let your mind formulate the goal for the day and start attacking it. If it feels restless, it should be so : you still haven't done anything. Do stuff and at the end of the day you will feel at peace.
+<figure>
+    <a href="/images/candies.jpg"><img src="/images/candies.jpg" ></a>
+    <figcaption>Shiny but artificial, colourful but fake, sweet at first but always disappointing in the long run: notifications messages are really the candies of our time.</figcaption>
+</figure>
+
+You are introducing unnecessary dopamine in your mind. It is the equivalent of eating two spoon of sugar before eating a real meal. It annihilates your motivation like it destroys your appetite. Let your mind formulate the goal for the day and start attacking it. If it feels restless, it should be so: you still haven't done anything. 
+
+> Do stuff and at the end of the day you will feel at peace.
 
 
 ### Looking back at photos ###
@@ -83,6 +90,12 @@ Even Puritans loved music and I am not here to downgrade its beauty. The problem
 2. The quality of music. **Modern music is like junk food. Produced and processed industrially. Pushed to consumers through aggressive marketing** To gorge on classical music results almost impossible as it is while eating for example meat or fish.
 
 These two elements produce and exacerbate in a vicious cycle the very modern phenomenon of listening always to something. From the start of the day, to airpods at work which will impede you accessing deep work, to "relaxing" with music at home and finally to "charging" yourself before a party. More and more living in your own head while manipulating your own emotions. 
+
+<figure>
+    <a href="/images/autism.jpg"><img src="/images/autism.jpg" style="width:60%" ></a>
+    <figcaption>The symptoms to diagnose mild digital autism. Scary uh?</figcaption>
+</figure>
+
 
 > Let me tell you: regulating your emotions with an external tool is dangerous. You start depending on it. You crave it when you don't have it. **It is called addiction.** 
 
