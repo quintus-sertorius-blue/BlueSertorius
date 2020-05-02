@@ -53,7 +53,7 @@ Whatever you do:
 - Resume the YouTube video you were watching the night before
 
 <figure>
-    <a href="/images/candies.jpg"><img src="/images/candies.jpg" ></a>
+    <a href="/images/candies.jpg"><img src="/images/candies.jpg" style="width:80%" ></a>
     <figcaption>Shiny but artificial, colourful but fake, sweet at first but always disappointing in the long run: notifications messages are really the candies of our time.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Even Puritans loved music and I am not here to downgrade its beauty. The problem
 These two elements produce and exacerbate in a vicious cycle the very modern phenomenon of listening always to something. From the start of the day, to airpods at work which will impede you accessing deep work, to "relaxing" with music at home and finally to "charging" yourself before a party. More and more living in your own head while manipulating your own emotions. 
 
 <figure>
-    <a href="/images/autism.jpg"><img src="/images/autism.jpg" style="width:60%" ></a>
+    <a href="/images/autism.jpg"><img src="/images/autism.jpg" style="width:90%" ></a>
     <figcaption>The symptoms to diagnose mild digital autism. Scary uh?</figcaption>
 </figure>
 
