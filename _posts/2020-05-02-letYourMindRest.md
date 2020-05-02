@@ -2,13 +2,13 @@
 layout: single
 title:  "Stop overstimulating your mind with digital entertainment"
 date:   2020-05-02
-categories: Wellness
+categories: DigitalMinimalism
 permalink: /letyourmindrest/
 toc: true
 toc_label: "Content"
 excerpt: "How to let your mind rest and recover"
 header:
-  overlay_image: /images/mountains.jpg
+  overlay_image: /images/leisure.jpg
   overlay_filter: 0.3
 ---
 ## Introduction ##

@@ -2,7 +2,7 @@
 layout: single
 title:  "How to beat the Weapon of Mass Distraction"
 date:   2020-04-26
-categories: Wellness
+categories: DigitalMinimalism
 permalink: /weaponofmassdistraction/
 toc: true
 toc_label: "Content"
