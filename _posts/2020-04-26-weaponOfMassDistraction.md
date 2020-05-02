@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "How to beat the Weapon of Mass Distraction"
-date:   2019-01-20
+date:   2020-04-26
 categories: Wellness
 permalink: /weaponofmassdistraction/
 toc: true
