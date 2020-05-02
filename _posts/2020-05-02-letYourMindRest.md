@@ -15,23 +15,31 @@ header:
 
 Times and times again, I see young and middle aged people engaged in what is one of the most modern and dangerous social large-scale experiment of our times: the systematic destruction of boredom.
 
+With the introduction of the TV in the 60s, the PC in the 90s and the smartphone in the last decade, we have changed the main way of consuming information. Western society, based on the written word, re-established its culture on the Image (to explore the details, read the amazing book of [Neil Postman](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)). This shift has inevitably killed most of the time we spent alone, meaning solitude, boredom and restlessness. I argue that the unintended effects will be devastating on the mental health of the majority of people. Among the others, I would consider loss of motivation, depression, anxiety and angst as the worst consequences of this 
+
 <figure>
-    <a href="/images/soma.jpg"><img src="/images/soma.jpg" style="width:70%" ></a>
+    <a href="/images/soma.jpg"><img src="/images/soma.jpg" style="width:60%" ></a>
     <figcaption>To read a terrifying description of modern times, go for Brave New World by Aldous Huxley. Inhabitants of the dystopic society consume "Soma", a powerful drug with no side-effects that makes you happy. Those who refuse to take it, are marginalized and expelled from society.</figcaption>
 </figure>
-
-With the introduction of the TV in the 60s, the PC in the 90s and the smartphone in the last decade, we have changed the main way of consuming information. Western society, based on the written word, re-established its culture on the Image (to explore the details, read the amazing book of [Neil Postman](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)). This shift has inevitably killed most of the time we spent alone, meaning solitude, boredom and restlessness. I argue that the unintended effects will be devastating on the mental health of the majority of people. Among the others, I would consider loss of motivation, depression, anxiety and angst as the worst consequences of this 
 
 Do you think I am exaggerating the side-effects? Think again.
 This is just [one](https://journals.sagepub.com/doi/full/10.1177/2167702617723376?journalCode=cpxa) of the many studies that justify serious precaution against "innocent" screen time. More importantly, these studies are not just ex-post explanation. They are confirming sensations and clues by people that look at teenager **a lot of time**: teachers. Teenagers are more and more distracted, depressed and cannot concentrate ([source](https://www.graphyonline.com/archives/IJPBA/2015/IJPBA-109/index.php?page=abstract)). For a more mainstream treatment of the topic, go to the Vox article [here](https://www.vox.com/science-and-health/2019/2/20/18210498/smartphones-tech-social-media-teens-depression-anxiety-research).
 
 I will list in this short essay, the common use cases that I see that should be avoided. The phenomena behind them is still not clear to the scientific community. Temporary narrative like *mirror neurons, dopamine, the reward system or evolutionary psychology* are being used to justify the negative side-effect that are becoming more and more common.
 
+I believe narrative are not needed. Here again, we adopt the *via negativa* approach. We don't wait for explanation to avoid side effect of modernity.
 
- It is not needed. Here we explore to via negativa approach. We don't wait for explanation to avoid side effect of modernity.
-We adopt a purely empirical approach: an elimination diet.
+> We adopt a purely empirical approach: an elimination diet.
 
-Cut the suspect behavior for a limited amount of time, see the effect on your body-mind and keep a journal. If you need further clarification, reintroduce them and see your reaction. Here we are not observing gastrointestinal symptoms but reactions of our mind. **You need awareness.**
+The process is as follows:
+1. Cut the suspect behavior for a limited amount of time.
+2. See the effect on your body-mind while keeping a journal during the elimination. Usually this periods last at least 30 days.
+3. Optional step if you need further clarification to associate cause-effect, reintroduce the suspects into your "diet" and see your reaction. 
+
+Here however, we are not observing gastrointestinal symptoms but reactions of our mind. To observe these **you need to practice awareness.** A short introduction can be found exploring the topic of Mindfulness; however, after some years that I am familiar with the concept, I believe that it is *vastly* more simple than that, as Naval beatifully puts it in this thread. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ No apps, no noise, no guidance. Sit in a comfortable position first thing in the morning, back upright, but ok to use cushions etc.. One hour at a time, no less. Just surrender to and accept whatever happens. No energy for and no energy against. Resist and reject nothing.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1136360844948676609?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Malpractices ##
 
