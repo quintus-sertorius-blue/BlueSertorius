@@ -16,7 +16,7 @@ header:
 Times and times again, I see young and middle aged people engaged in what is one of the most modern and dangerous social large-scale experiment of our times: the systematic destruction of boredom.
 
 <figure>
-    <a href="/images/soma.jpg"><img src="/images/soma.jpg" ></a>
+    <a href="/images/soma.jpg"><img src="/images/soma.jpg" style="width:70%" ></a>
     <figcaption>To read a terrifying description of modern times, go for Brave New World by Aldous Huxley. Inhabitants of the dystopic society consume "Soma", a powerful drug with no side-effects that makes you happy. Those who refuse to take it, are marginalized and expelled from society.</figcaption>
 </figure>
 
