@@ -20,7 +20,12 @@ Times and times again, I see young and middle aged people engaged in what is one
     <figcaption>To read a terrifying description of modern times, go for Brave New World by Aldous Huxley. Inhabitants of the dystopic society consume "Soma", a powerful drug with no side-effects that makes you happy. Those who refuse to take it, are marginalized and expelled from society.</figcaption>
 </figure>
 
-I will list in this short essay, the common use cases to avoid. The phenomena behind them is still not clear to the scientific community. Temporary narrative like *mirror neurons, dopamine, the reward system or evolutionary psychology* are being used to justify the negative side-effect that are becoming more and more common.
+With the introduction of the TV in the 60s, the PC in the 90s and the smartphone in the last decade, we have changed the main way of consuming information. Western society, based on the written word, re-established its culture on the Image (to explore the details, read the amazing book of [Neil Postman](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)). This shift has inevitably killed most of the time we spent alone, meaning solitude, boredom and restlessness. I argue that the unintended effects will be devastating on the mental health of the majority of people. Among the others, I would consider loss of motivation, depression, anxiety and angst as the worst consequences of this 
+
+Do you think I am exaggerating the side-effects? Think again.
+This is just [one](https://journals.sagepub.com/doi/full/10.1177/2167702617723376?journalCode=cpxa) of the many studies that justify serious precaution against "innocent" screen time. More importantly, these studies are not just ex-post explanation. They are confirming sensations and clues by people that look at teenager **a lot of time**: teachers. Teenagers are more and more distracted, depressed and cannot concentrate ([source](https://www.graphyonline.com/archives/IJPBA/2015/IJPBA-109/index.php?page=abstract)). For a more mainstream treatment of the topic, go to the Vox article [here](https://www.vox.com/science-and-health/2019/2/20/18210498/smartphones-tech-social-media-teens-depression-anxiety-research).
+
+I will list in this short essay, the common use cases that I see that should be avoided. The phenomena behind them is still not clear to the scientific community. Temporary narrative like *mirror neurons, dopamine, the reward system or evolutionary psychology* are being used to justify the negative side-effect that are becoming more and more common.
 
 
  It is not needed. Here we explore to via negativa approach. We don't wait for explanation to avoid side effect of modernity.
