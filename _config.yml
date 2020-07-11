@@ -46,8 +46,8 @@ paginate_path: /page:num/
 author:
   name: "Quintus Sertorius"
   avatar: "/images/quinto.jpg"
-  bio: "Copywriting, wellness and self-improvement. ANCR."
-  location: "Rome 90 B.C."
+  bio: "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."
+  location: "Brave New World"
   links:
     - label: "Ebook"
       icon: "fas fa-fw fa-book"
