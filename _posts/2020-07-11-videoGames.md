@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Videogames is the new smoking"
-date:   2020-05-02
+date:   2020-07-11
 categories: DigitalMinimalism
 permalink: /videogames/
 toc: true
@@ -11,6 +11,7 @@ header:
   overlay_image: /images/lol.jpg
   overlay_filter: 0.3
 ---
+## Introduction ##
 
 In our new reality, videogames is what smoking was in the '60s. Cheap, damaging and addictive. With this short essay, I want to warn about the biggest dangers that you incur while focusing your mind on this new type of human creation.
 
@@ -19,7 +20,7 @@ In our new reality, videogames is what smoking was in the '60s. Cheap, damaging 
 It is probably the most dangerous effect of video-games that I observed on myself. When you immerse yourself in role-playing-game (like in my times were Oblivion and Skyrim), you stroll through forests and rivers in hyper-realist graphics like this.
 
 <figure>
-    <a href="/images/skyrim.jpg"><img src="/images/skyrim.jpg" style="width:60%" ></a>
+    <a href="/images/skyrim.jpg"><img src="/images/skyrim.jpg"></a>
     <figcaption>So sweet it becomes nauseating.</figcaption>
 </figure>
 
@@ -74,7 +75,7 @@ There is a certain kind of truth in this statement. Strategy games taught me the
 
 I would argue however that video-games is just one of the many ways to learn them as it is brings heavy side-effect to the party. For example, the combination of chess, board games and reading history books seems to a me a superior choice in every aspects.
 
-### Fear of Missing Out###
+### Fear of Missing Out ###
 
 I am always skeptical of this kind of "there is still some benefit" argument. It resembles me the notion, as Cal Newport very well argued, that since social media still give you some benefit (even though is much, much smaller compared to its cost), you should use them because "you are missing out". 
 
