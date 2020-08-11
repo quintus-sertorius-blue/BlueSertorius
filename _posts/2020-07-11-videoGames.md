@@ -40,7 +40,7 @@ Here again the main theme of this essay; that video-games are essentially mastur
 In real life, we don't evaluate risk based on the single event but on the whole set that that event bring with itself. We know that smoking one cigarette is hardly dangerous. For sure it passes a cost-benefit analysis. However, it can bring me in a vicious cycle of addiction, that's why the wise action is not smoking that first cigarette.
 
 <figure>
-    <a href="/images/ergodic.png"><img src="/images/ergodic.png" ></a>
+    <a href="/images/ergodic.png"><img src="/images/ergodic.png" style="width:40%" ></a>
     <figcaption>Life is a repeated sum of games. Cost-benefit analysis are short-sighted.</figcaption>
 </figure>
 
