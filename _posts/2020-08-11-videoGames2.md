@@ -3,7 +3,7 @@ layout: single
 title:  "Videogames is the new smoking, part II"
 date:   2020-08-11
 categories: DigitalMinimalism
-permalink: /videogames/
+permalink: /videogames2/
 toc: true
 toc_label: "Content"
 excerpt: "An essay dedicated to parents and teens on the dangers of this modern drug"
