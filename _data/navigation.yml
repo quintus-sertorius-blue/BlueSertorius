@@ -7,3 +7,5 @@ main:
     url: /about/
   - title: "Reading List"
     url: /reading/
+  - title: "Book a Consultation"
+    url: /consultation/
