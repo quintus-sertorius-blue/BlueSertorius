@@ -8,7 +8,7 @@ toc: true
 toc_label: "Content"
 excerpt: "The pernicious effects of top-down systems"
 header:
-  overlay_image: /images/esport.jpg
+  overlay_image: /images/school.jpg
   overlay_filter: 0.3
 ---
 
