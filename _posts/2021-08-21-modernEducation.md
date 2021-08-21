@@ -11,6 +11,17 @@ header:
   overlay_image: /images/school.jpg
   overlay_filter: 0.3
 ---
+## Introduction
+
+In this interview, [@DHH](https://twitter.com/dhh) talks about his approach to learning and how he, starting from high school, approached a subject only if it interested him.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">David <a href="https://twitter.com/dhh?ref_src=twsrc%5Etfw">@dhh</a> is one the most Antifragile people I know. Great interview, where he shows not only how he made himself robust to crises, but how he benefits from them: <a href="https://t.co/v9ZfRyEKLY">https://t.co/v9ZfRyEKLY</a></p>&mdash; Daniel Vassallo (@dvassallo) <a href="https://twitter.com/dvassallo/status/1424323632730447873?ref_src=twsrc%5Etfw">August 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+In many ways, he went against the mainstream: he mentioned that he didn't consider Math worth of his time and that it was not possible to bullshit his way through, so he failed intentionally the exam.
+
+Fastforwards a decade, DHH founded Basecamp, invented Ruby On Rails and excelled in car racing and photography. 
+
+He is one of the many example of how school can seriously impair your progress, if you take it too seriously.
 
 ## What to study
 
