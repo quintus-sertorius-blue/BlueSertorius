@@ -1,8 +1,8 @@
 main:
   - title: "Archives"
     url: /categories/
-  - title: "Ebook"
-    url : /ebook/
+  # - title: "Ebook"
+  #   url : /ebook/
   - title: "About"
     url: /about/
   - title: "Reading List"
