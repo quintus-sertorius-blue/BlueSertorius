@@ -3,9 +3,9 @@ main:
     url: /categories/
   # - title: "Ebook"
   #   url : /ebook/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "Reading List"
     url: /reading/
-  - title: "Book a Consultation"
-    url: /consultation/
+  # - title: "Book a Consultation"
+  #   url: /consultation/
